@@ -10,7 +10,6 @@ I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NA
 - 💬 Ask me about **solar flare prediction, space weather, astronomical data analysis, and Python for astronomy**
 - 📫 How to reach me: **ggoodwin5@gsu.edu**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I use machine learning to predict when the Sun will have "bad days" that could affect satellites and power grids on Earth!**
 
 ### 🤖 Machine Learning in Astronomy
 - Deep learning for solar event prediction
