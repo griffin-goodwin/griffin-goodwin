@@ -3,18 +3,12 @@
 ## 🚀 About Me
 I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NASA FINESST Fellow** passionate about solar physics, space weather, and applying machine learning to astronomical research. Currently developing cutting-edge approaches for solar flare prediction and space weather forecasting.
 
-- 🔭 I'm currently working on **multimodal solar flare prediction using machine learning** at FDL HelioLab
-- 🌱 I'm currently learning **advanced deep learning techniques for space weather forecasting**
-- 👯 I'm looking to collaborate on **solar physics research, space weather applications, and astronomical data analysis**
-- 🤔 I'm looking for help with **optimizing ML pipelines for large-scale solar data**
-- 💬 Ask me about **solar flare prediction, space weather, astronomical data analysis, and Python for astronomy**
 - 📫 How to reach me: **ggoodwin5@gsu.edu**
 - 😄 Pronouns: **He/Him**
 
 ### 🤖 Machine Learning in Astronomy
 - Deep learning for solar event prediction
 - Computer vision applications in solar physics
-- Big data analytics for astronomical datasets
 
 ## 🛠️ Technologies & Tools
 
@@ -62,22 +56,14 @@ I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NA
 
 ## 🏅 Awards & Recognition
 
-- 🚀 **NASA FINESST Fellow** (2023-2026) - Prestigious NASA fellowship for graduate research
+- 🚀 **NASA FINESST Fellow** (2023-2026) - NASA fellowship for graduate research
 - 🌟 **Second Century Initiative Fellow** - Georgia State University (2022-2023)
-- ✈️ **Multiple Conference Travel Awards** - Space Weather Workshop & SHINE Conference
 
 ## 🎓 Education Journey
 
 - **Ph.D. in Astronomy** - Georgia State University (2022-Present)
 - **B.S. in Physics** - Georgia Institute of Technology (2018-2022) 
   - Concentration: Astrophysics | Minor: Computational Data Analysis
-
-## 🗣️ Recent Conferences & Talks
-
-### 2025
-- **Space Weather Workshop** (Boulder, CO) - Lightning Talk & Poster on magnetogram projection effects
-### 2024
-- **AL Plasma Physics Conference** (Huntsville, AL) - **Invited Talk** on AI for Solar Event Forecasting
 
 ## 🤝 Connect with Me
 
