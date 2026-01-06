@@ -1,14 +1,9 @@
 # Hi there, I'm Griffin T. Goodwin 👋🌟
 
 ## 🚀 About Me
-I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NASA FINESST Fellow** passionate about solar physics, space weather, and applying machine learning to astronomical research. Currently developing cutting-edge approaches for solar flare prediction and space weather forecasting.
-
+I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NASA FINESST Fellow** passionate about solar physics, space weather, and applying machine learning to astronomical research.
 - 📫 How to reach me: **ggoodwin5@gsu.edu**
 - 😄 Pronouns: **He/Him**
-
-### 🤖 Machine Learning in Astronomy
-- Deep learning for solar event prediction
-- Computer vision applications in solar physics
 
 ## 🛠️ Technologies & Tools
 
@@ -32,32 +27,11 @@ I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NA
 ![SunPy](https://img.shields.io/badge/-SunPy-FFD43B?style=flat-square&logo=python&logoColor=black)
 ![Astropy](https://img.shields.io/badge/-Astropy-306998?style=flat-square&logo=python&logoColor=white)
 
-
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=griffin-goodwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=griffin-goodwin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffin-goodwin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
-## 🏅 Awards & Recognition
-
-- 🚀 **NASA FINESST Fellow** (2023-2026) - NASA fellowship for graduate research
-- 🌟 **Second Century Initiative Fellow** - Georgia State University (2022-2023)
 
 ## 🎓 Education Journey
 
