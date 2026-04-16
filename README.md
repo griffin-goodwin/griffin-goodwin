@@ -1,11 +1,11 @@
-# Hi there, I'm Griffin T. Goodwin 👋🌟
+# Hi there, I'm Griffin T. Goodwin
 
-## 🚀 About Me
+## About Me
 I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NASA FINESST Fellow** passionate about solar physics, space weather, and applying machine learning to astronomical research.
-- 📫 How to reach me: **ggoodwin5@gsu.edu**
-- 😄 Pronouns: **He/Him**
+- How to reach me: **ggoodwin5@gsu.edu**
 
-## 🛠️ Technologies & Tools
+
+## Technologies & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,13 +33,13 @@ I'm a Ph.D. Graduate Student in Astronomy at Georgia State University and a **NA
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-## 🎓 Education Journey
+## Education Journey
 
 - **Ph.D. in Astronomy** - Georgia State University (2022-Present)
 - **B.S. in Physics** - Georgia Institute of Technology (2018-2022) 
   - Concentration: Astrophysics | Minor: Computational Data Analysis
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/griffin-goodwin/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggoodwin5@gsu.edu)
